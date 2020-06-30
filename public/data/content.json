@@ -1,0 +1,42 @@
+{
+    "content" : {
+        "art" : [
+            {
+                "key" : "item-1",
+                "title" : "Item Title 1",
+                "price" : 200.00,
+                "shortdescription" : "Acrylic on canvas.",
+                "thumb" : "https://live.staticflickr.com/1738/28885081468_4f1e861c6a_h.jpg",
+                "image" : "/images/image1.jpg",
+                "buyurl" : "https://www.etsy.com/item1"
+            },
+            {
+                "key" : "item-2",
+                "title" : "Item Title 2",
+                "price" : 200.00,
+                "shortdescription" : "Mixed media on canvas.",
+                "thumb" : "https://live.staticflickr.com/1738/28885081468_4f1e861c6a_h.jpg",
+                "image" : "/images/image1.jpg",
+                "buyurl" : ""
+            },
+            {
+                "key" : "item-3",
+                "title" : "Item Title 3",
+                "price" : 200.00,
+                "shortdescription" : "Acrylic on canvas.",
+                "thumb" : "https://live.staticflickr.com/1738/28885081468_4f1e861c6a_h.jpg",
+                "image" : "/images/image1.jpg",
+                "buyurl" : ""
+            },
+            {
+                "key" : "item-4",
+                "title" : "Item Title 4",
+                "price" : 200.00,
+                "shortdescription" : "Acrylic on canvas.",
+                "thumb" : "https://live.staticflickr.com/1738/28885081468_4f1e861c6a_h.jpg",
+                "image" : "/images/image1.jpg",
+                "buyurl" : "https://www.etsy.com/item4"
+            }
+        ]
+    }
+}
